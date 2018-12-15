@@ -1,0 +1,5 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "cmake.configureOnOpen": false,
+    "C_Cpp.configurationWarnings": "Disabled"
+}

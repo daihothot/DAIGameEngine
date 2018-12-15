@@ -11,12 +11,13 @@ int DAIGameEngine::BaseApplication::Initialize()
 // Finalize all sub modules and clean up all runtime temporary files.
 void DAIGameEngine::BaseApplication::Finalize()
 {
+        
 }
-
 
 // One cycle of the main loop
 void DAIGameEngine::BaseApplication::Tick()
 {
+        
 }
 
 bool DAIGameEngine::BaseApplication::IsQuit()

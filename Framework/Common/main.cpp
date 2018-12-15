@@ -18,6 +18,8 @@ int main(int argc, char** argv)
 			return ret;
         }
 
+        printf("Hello World!");
+
         while (!g_pApp->IsQuit()) 
 		{
 			g_pApp->Tick();
