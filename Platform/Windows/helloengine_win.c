@@ -1,3 +1,5 @@
+#ifdef WIN
+
 #include <Windows.h>
 #include <windowsx.h>
 #include <tchar.h>
@@ -88,3 +90,4 @@ LRESULT CALLBACK WindowProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lPara
     // Handle any messages the switch statement didn't
     return DefWindowProc (hWnd, message, wParam, lParam);
 }
+#endif
