@@ -2,5 +2,5 @@
     "C_Cpp.intelliSenseEngineFallback": "Disabled",
     "cmake.configureOnOpen": false,
     "C_Cpp.configurationWarnings": "Disabled",
-    "sync.gist": ""
+    "C_Cpp.errorSquiggles": "Enabled"
 }
